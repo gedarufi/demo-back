@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id":326,
+      "email":"juan@gcfglobal.org",
+      "password":"123456"
+    },
+    {
+      "id":327,
+      "email":"german.ruiz@inger.co",
+      "password":"123456"
+    }
+  ]
+}
